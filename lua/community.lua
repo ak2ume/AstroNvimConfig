@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.register.nvim-neoclip-lua" },
   { import = "astrocommunity.git.fugit2-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" },
 }
